@@ -1,1 +1,2 @@
-# Deep_Learning_CBPF
+# Deep_Learning_Course
+Activities for my Deep Learning course.
